@@ -288,3 +288,17 @@ class ChessVar:
             if (count % 8 == 0) and (count != 0):
                 print(int((64 - count) / 8) + 1)
             count += 1
+
+game = ChessVar()
+while True:
+    game.display()
+    a = input("From: ")
+    b = input("To: ")
+    game.make_move(a, b)
+    if game.get_game_state() == "WHITE_WON":
+        print("White Won!")
+        break
+    elif game.get_game_state() == "BLACK_WON":
+        print("Black Won!")
+        break
+        
