@@ -63,9 +63,3 @@ For example:
 ---
 
 Built by Chris Sexton
-  - Player 1 (white team) will go first. Type column name (a - h) in lowercase letters followed by row name (1-8).
-  - Example - First line: "From: a2" Second line: "To: a3"
-  - Player 2 (black team) will go next. Same idea as player 1 with moves.
-  - Repeat until someone wins!
-
-
