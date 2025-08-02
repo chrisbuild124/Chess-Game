@@ -10,7 +10,7 @@ A two-player, terminal-based chess game with a unique win condition:
 This is a chess variant that runs in the terminal via `ChessVar.py`.  
 The board is printed with `"________"` as empty squares and displays pieces using their color (`B` or `W`) and type (`Pawn`, `Knight`, etc.).
 
-- There is **no check or checkmate** — instead, eliminate all of one piece type from your opponent to win the game!
+- There's **no check or checkmate** — instead, eliminate all of one piece type from your opponent to win the game.
 
 ---
 
@@ -21,17 +21,17 @@ The board is printed with `"________"` as empty squares and displays pieces usin
 
 ---
 
-## 🎯 How to Win
+## How to Win
 
 > **Capture all of one type of your opponent’s pieces.**  
 For example:
 - Capture both of your opponent’s knights (2 total)
 - Or all 8 pawns
-- Or even just the king (1 total)
+- Or only the king
 
 ---
 
-## ♜ Rules Summary
+## Rules Recap
 
 - **2 players**
 - **Standard starting chess position**
@@ -42,7 +42,7 @@ For example:
 
 ---
 
-## ▶Getting Started
+## Getting Started
 
 1. Run the script in a terminal:
    ```bash
@@ -58,11 +58,9 @@ For example:
      ```
    - **Player 2 (Black)** follows with the same format.
 
-3. Continue alternating turns until one player captures all of a specific type of piece!
+3. Continue alternating turns until one player captures all of a specific type of piece.
 
 ---
-
-## Author
 
 Built by Chris Sexton
   - Player 1 (white team) will go first. Type column name (a - h) in lowercase letters followed by row name (1-8).
