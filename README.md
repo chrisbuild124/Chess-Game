@@ -25,7 +25,7 @@ For example:
 - Or all 8 pawns
 - Or only the king
 
-## Rules Recap
+## Rules
 
 - **2 players**
 - **Standard starting chess position**
@@ -51,5 +51,3 @@ For example:
 3. Continue alternating turns until one player captures all of a specific type of piece.
 
 ---
-
-Built by Chris Sexton
